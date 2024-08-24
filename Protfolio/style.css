@@ -47,12 +47,6 @@ body {
 	min-height: 100vh;
 }
 
-.Website-container {
-	position: relative;
-	max-width: 1500px;
-	margin: 0px auto;
-}
-
 /*   *** Home Section Styling Starts ***   */
 .home {
 	position: relative;
